@@ -4,5 +4,5 @@
 
 [Source](/dotnet-mono/Dockerfile)
 
-* .net Core SDK 2.0  
-* Mono 5.4.0.201  
+* .net Core SDK 2.1.4  
+* Mono 5.8.0.127  

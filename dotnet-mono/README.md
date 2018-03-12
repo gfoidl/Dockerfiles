@@ -12,5 +12,5 @@ especially fot `dotnet pack` to produce multi-targeting packages.
 
 ## Versions
 
-* .net Core SDK 2.0  
-* mono 5.4.0.201
+* .net Core SDK 2.1.4   
+* mono 5.8.0.127
