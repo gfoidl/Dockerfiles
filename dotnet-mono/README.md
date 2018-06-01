@@ -5,12 +5,12 @@
 Can be used for multi-targeting build, like
 
     <PropertyGroup>
-        <TargetFrameworks>netstandard2.0;net461</TargetFrameworks>
+        <TargetFrameworks>netstandard2.0;netcoreapp2.1;netcoreapp2.0;net471;net47;net461;net46;net45</TargetFrameworks>
     </PropertyGroup>
 
-especially fot `dotnet pack` to produce multi-targeting packages.
+especially for `dotnet pack` to produce multi-targeting packages.
 
 ## Versions
 
-* .net Core SDK 2.1.4   
-* mono 5.8.0.127
+* .net Core SDK 2.1   
+* mono 5.12.0.226
