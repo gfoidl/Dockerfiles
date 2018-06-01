@@ -11,5 +11,5 @@
 
 [Source](/dotnet-xmllint/Dockerfile)
 
-* .net Core SDK 2.1-RC1
+* .net Core SDK 2.1
 * libxml2

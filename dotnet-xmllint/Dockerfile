@@ -1,4 +1,4 @@
-# Docker image for .net Core SDK 2.1-RC1 + libxml2
+# Docker image for .net Core SDK 2.1 + libxml2
 
 # Maintainer gfoidl, 2018
 
