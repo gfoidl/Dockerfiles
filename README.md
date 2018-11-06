@@ -15,3 +15,12 @@
 
 * .net Core SDK 2.1
 * libxml2
+
+## dotnet-circleci-browsers
+
+[Docker Hub](https://hub.docker.com/r/gfoidl/dotnet-circleci-browsers/)
+[Source](/dotnet-circleci-browsers/Dockerfile)
+
+* .net Core SDK 2.1
+* CircleCI Node-Jessie-Browsers 10.13.0
+* [trx2junit](https://github.com/gfoidl/trx2junit)
