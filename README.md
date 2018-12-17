@@ -2,15 +2,15 @@
 
 ## dotnet-mono
 
-[Docker Hub](https://hub.docker.com/r/gfoidl/dotnet-mono/)  
+[Docker Hub](https://hub.docker.com/r/gfoidl/dotnet-mono/)
 [Source](/dotnet-mono/Dockerfile)
 
-* .net Core SDK 2.1 
+* .net Core SDK 2.1
 * Mono 5.12.0.226
 
 ## dotnet-xmllint
 
-[Docker Hub](https://hub.docker.com/r/gfoidl/dotnet-xmllint/)  
+[Docker Hub](https://hub.docker.com/r/gfoidl/dotnet-xmllint/)
 [Source](/dotnet-xmllint/Dockerfile)
 
 * .net Core SDK 2.1
@@ -24,3 +24,11 @@
 * .net Core SDK 2.1
 * CircleCI Node-Jessie-Browsers 10.13.0
 * [trx2junit](https://github.com/gfoidl/trx2junit)
+
+## deb-pack
+
+[Docker Hub](https://hub.docker.com/r/gfoidl/deb-pack)
+[Source](/deb-pack/Dockerfile)
+
+* ubuntu:latest
+* dh-make
