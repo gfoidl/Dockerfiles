@@ -12,5 +12,5 @@ especially for `dotnet pack` to produce multi-targeting packages.
 
 ## Versions
 
-* .net Core SDK 2.1   
-* mono 5.12.0.226
+* .net Core SDK 2.2   
+* mono 5.18.1.0

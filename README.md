@@ -5,8 +5,8 @@
 [Docker Hub](https://hub.docker.com/r/gfoidl/dotnet-mono/)
 [Source](/dotnet-mono/Dockerfile)
 
-* .net Core SDK 2.1
-* Mono 5.12.0.226
+* .net Core SDK 2.2
+* 5.18.1.0
 
 ## dotnet-xmllint
 
