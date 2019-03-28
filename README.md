@@ -32,3 +32,8 @@
 
 * ubuntu:latest
 * dh-make
+
+## gnuplot5
+
+[Docker Hub](https://hub.docker.com/r/gfoidl/gnuplot5)
+[Source](/gnuplot5/Dockerfile)
