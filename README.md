@@ -22,7 +22,8 @@
 [Docker Hub](https://hub.docker.com/r/gfoidl/dotnet-xmllint/)
 [Source](/dotnet-xmllint/Dockerfile)
 
-* .NET Core SDK 2.1
+* .NET Core SDK 3.0
+* .NET Core Runtime 2.1
 * libxml2
 
 ## dotnet-circleci-browsers
