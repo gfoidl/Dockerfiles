@@ -31,8 +31,8 @@
 [Docker Hub](https://hub.docker.com/r/gfoidl/dotnet-circleci-browsers/)
 [Source](/dotnet-circleci-browsers/Dockerfile)
 
-* .NET Core SDK 2.1
-* CircleCI Node-Jessie-Browsers 10.13.0
+* .NET Core SDK 3.0
+* CircleCI Node-LTS-Buster-Browsers
 * [trx2junit](https://github.com/gfoidl/trx2junit)
 
 ## deb-pack
