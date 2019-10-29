@@ -24,6 +24,6 @@ RUN sudo touch microsoft.asc.gpg && sudo chown $(whoami) microsoft.asc.gpg \
 &&  dotnet tool install -g trx2junit
 
 # Chrome webdriver
-RUN sudo curl -o /tmp/chromedriver.zip https://chromedriver.storage.googleapis.com/78.0.3904.11/chromedriver_linux64.zip \
+RUN sudo curl -o /tmp/chromedriver.zip https://chromedriver.storage.googleapis.com/77.0.3865.40/chromedriver_linux64.zip \
 &&  sudo unzip /tmp/chromedriver.zip -d /tmp \
 &&  sudo rm /tmp/chromedriver.zip
