@@ -47,3 +47,8 @@
 
 [Docker Hub](https://hub.docker.com/r/gfoidl/gnuplot5)
 [Source](/gnuplot5/Dockerfile)
+
+## ubuntu-timezone
+
+[Docker Hub](https://hub.docker.com/r/gfoidl/ubuntu-timezone)
+[Source](/ubuntu-timezone/Dockerfile)
